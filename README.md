@@ -11,6 +11,9 @@ To install these libs, use requirements.txt file
 
 - Installation on Linux: ```sudo pip install -r requirements.txt```
 
+## Instalation:
+```git clone https://github.com/aboul3la/Sublist3r.git```
+
 ## Usage:
 | Short form | Long form | Description |
 |:-------------------|:------------|:------------------|
