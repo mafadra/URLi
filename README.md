@@ -27,7 +27,8 @@ To install these libs, use requirements.txt file
 - Specify target domain: ```python URLi.py -d/--domain targetdomain.tld```
 - Only show subdomains with specific status code: ```python URLi.py -s 200 404```
 - To activate subdomain consult: ```python URLi.py -sc/--subdomain-consult```
-- Save consults in a output file: ```python URLi.py -o/--output outputfile.txt or outputfile.json``` | You also can use status code filter in output file: ```python URLi.py -o/--output outputfile.txt 200 404```
+- Save consults in a output file: ```python URLi.py -o/--output outputfile.txt or outputfile.json```
+  - You also can use status code filter in output file: ```python URLi.py -o/--output outputfile.txt 200 404```
 - Help message: ```python URLi.py -h/--help```
 
 ## Credits:
